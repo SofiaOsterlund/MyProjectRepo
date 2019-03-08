@@ -1,4 +1,8 @@
 Hej, vilket datum fyller du år?
 Hej, 25e Oktober, du dåå?
 4 Januari :D, vilket är ditt favoritdjur?
+<<<<<<< HEAD
 Mitt är papegoja
+=======
+Hund
+>>>>>>> 29af89f3ea07d7eaba7e1a480414268c9169e871
